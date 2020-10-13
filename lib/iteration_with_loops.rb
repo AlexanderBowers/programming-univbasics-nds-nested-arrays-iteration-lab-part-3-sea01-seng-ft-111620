@@ -3,5 +3,5 @@ def join_nested_strings(src)
   # Combine all Strings present in the AoA into a single value and return it
   output = ""
   src.each do |check|
-    
+
 end
