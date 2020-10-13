@@ -5,7 +5,7 @@ def join_nested_strings(src)
   src.each do |check|
     check.each do |if_string|
      if if_string.class == String
-       output << if_string " "
+       output << "#{if_string} "
      end
    end
  end
