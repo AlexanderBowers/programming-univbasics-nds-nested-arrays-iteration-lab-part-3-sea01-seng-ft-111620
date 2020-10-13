@@ -9,5 +9,5 @@ def join_nested_strings(src)
      end
    end
  end
-p output
+puts  output
 end
